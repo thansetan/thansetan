@@ -24,3 +24,4 @@ jobs:
           SHOW_LOC_CHART: false
           IGNORED_REPOS: "penghijauan"
           INCLUDE_PRIVATE: false
+          WAKA_STATS_PERIOD: all
