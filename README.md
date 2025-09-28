@@ -1,11 +1,9 @@
 <!--START_SECTION:thansetan-waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-979%20hrs%2014%20mins-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 95.1 kB Used in GitHub's Storage 
  > 
-> 🏆 871 Contributions in the Year 2025
+> 🏆 872 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -59,5 +57,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 Ruby                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
 ```
 
-Last Updated on 27/09/2025 04:21:09 UTC
+Last Updated on 28/09/2025 04:21:17 UTC
 <!--END_SECTION:thansetan-waka-->
