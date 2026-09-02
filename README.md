@@ -1,5 +1,5 @@
 <!--START_SECTION:thansetan-waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C503%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C504%20hrs%2029%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -37,14 +37,14 @@ Sunday                   58 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     527 hrs 13 mins     █████████░░░░░░░░░░░░░░░░   35.08 % 
-Go                       249 hrs 11 mins     ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
+Java                     527 hrs 13 mins     █████████░░░░░░░░░░░░░░░░   35.06 % 
+Go                       249 hrs 11 mins     ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
 TypeScript               220 hrs 43 mins     ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
 HTML                     98 hrs 3 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
 JavaScript               67 hrs 23 mins      █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
 
 🔥 Editors: 
-VS Code                  1,416 hrs 38 mins   ████████████████████████░   94.25 % 
+VS Code                  1,417 hrs 24 mins   ████████████████████████░   94.25 % 
 Visual Studio            72 hrs 6 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
 Opencode Cli             8 hrs 3 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 Neovim                   2 hrs 39 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
@@ -61,5 +61,5 @@ JavaScript               3 repos             ██░░░░░░░░░�
 Ruby                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
 ```
 
-Last Updated on 01/09/2026 09:12:15 UTC
+Last Updated on 02/09/2026 08:25:37 UTC
 <!--END_SECTION:thansetan-waka-->
