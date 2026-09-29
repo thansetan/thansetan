@@ -1,11 +1,11 @@
 <!--START_SECTION:thansetan-waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C556%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C560%20hrs%2013%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 153.6 kB Used in GitHub's Storage 
  > 
-> 🏆 1,216 Contributions in the Year 2026
+> 🏆 1,219 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -37,15 +37,15 @@ Sunday                   59 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     527 hrs 13 mins     ████████░░░░░░░░░░░░░░░░░   33.93 % 
-Go                       252 hrs 17 mins     ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
-TypeScript               222 hrs 57 mins     ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
-HTML                     98 hrs 3 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
-C#                       79 hrs 21 mins      █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
+Java                     527 hrs 13 mins     ████████░░░░░░░░░░░░░░░░░   33.85 % 
+Go                       252 hrs 17 mins     ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
+TypeScript               222 hrs 57 mins     ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
+HTML                     98 hrs 3 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
+C#                       81 hrs 50 mins      █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
 
 🔥 Editors: 
-VS Code                  1,429 hrs 53 mins   ███████████████████████░░   92.03 % 
-Visual Studio            109 hrs 33 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
+VS Code                  1,429 hrs 53 mins   ███████████████████████░░   91.80 % 
+Visual Studio            113 hrs 22 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
 Opencode Cli             8 hrs 3 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 Neovim                   2 hrs 39 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 Claude Code              1 hr 26 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
@@ -61,5 +61,5 @@ JavaScript               3 repos             ██░░░░░░░░░�
 Ruby                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
 ```
 
-Last Updated on 28/09/2026 10:37:53 UTC
+Last Updated on 29/09/2026 10:26:11 UTC
 <!--END_SECTION:thansetan-waka-->
