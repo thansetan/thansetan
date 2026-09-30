@@ -1,5 +1,5 @@
 <!--START_SECTION:thansetan-waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C560%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C564%20hrs%2040%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -37,15 +37,15 @@ Sunday                   59 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     527 hrs 13 mins     ████████░░░░░░░░░░░░░░░░░   33.85 % 
-Go                       252 hrs 17 mins     ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
-TypeScript               222 hrs 57 mins     ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
-HTML                     98 hrs 3 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
-C#                       81 hrs 50 mins      █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
+Java                     527 hrs 13 mins     ████████░░░░░░░░░░░░░░░░░   33.78 % 
+Go                       252 hrs 17 mins     ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
+TypeScript               222 hrs 57 mins     ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+HTML                     98 hrs 3 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+C#                       84 hrs 7 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
 
 🔥 Editors: 
-VS Code                  1,429 hrs 53 mins   ███████████████████████░░   91.80 % 
-Visual Studio            113 hrs 22 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
+VS Code                  1,430 hrs 9 mins    ███████████████████████░░   91.64 % 
+Visual Studio            116 hrs 8 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
 Opencode Cli             8 hrs 3 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 Neovim                   2 hrs 39 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 Claude Code              1 hr 26 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
@@ -61,5 +61,5 @@ JavaScript               3 repos             ██░░░░░░░░░�
 Ruby                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
 ```
 
-Last Updated on 29/09/2026 10:26:11 UTC
+Last Updated on 30/09/2026 10:18:50 UTC
 <!--END_SECTION:thansetan-waka-->
