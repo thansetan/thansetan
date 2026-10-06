@@ -1,11 +1,11 @@
 <!--START_SECTION:thansetan-waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C582%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C587%20hrs%2052%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 154.1 kB Used in GitHub's Storage 
  > 
-> 🏆 1,232 Contributions in the Year 2026
+> 🏆 1,233 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -37,18 +37,18 @@ Sunday                   59 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     527 hrs 13 mins     ████████░░░░░░░░░░░░░░░░░   33.40 % 
-Go                       252 hrs 58 mins     ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
-TypeScript               222 hrs 57 mins     ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
-HTML                     98 hrs 3 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
-C#                       95 hrs 31 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+Java                     527 hrs 24 mins     ████████░░░░░░░░░░░░░░░░░   33.31 % 
+Go                       252 hrs 58 mins     ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
+TypeScript               222 hrs 57 mins     ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
+C#                       98 hrs 32 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
+HTML                     98 hrs 3 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
 
 🔥 Editors: 
-VS Code                  1,430 hrs 57 mins   ███████████████████████░░   90.66 % 
-Visual Studio            132 hrs 3 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
+VS Code                  1,431 hrs 24 mins   ███████████████████████░░   90.39 % 
+Visual Studio            136 hrs 22 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
 Opencode Cli             8 hrs 3 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+Claude Code              2 hrs 49 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 Neovim                   2 hrs 39 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
-Claude Code              2 hrs 30 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 ```
 
 **🧑‍💻 I Mostly Code in Go** 
@@ -61,5 +61,5 @@ JavaScript               3 repos             ██░░░░░░░░░�
 Ruby                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
 ```
 
-Last Updated on 05/10/2026 11:12:32 UTC
+Last Updated on 06/10/2026 11:02:28 UTC
 <!--END_SECTION:thansetan-waka-->
