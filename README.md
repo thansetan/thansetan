@@ -1,11 +1,11 @@
 <!--START_SECTION:thansetan-waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C621%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C628%20hrs%2027%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 154.1 kB Used in GitHub's Storage 
  > 
-> 🏆 1,255 Contributions in the Year 2026
+> 🏆 1,257 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -37,17 +37,17 @@ Sunday                   59 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     543 hrs 40 mins     ████████░░░░░░░░░░░░░░░░░   33.60 % 
-Go                       254 hrs 13 mins     ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
-TypeScript               222 hrs 57 mins     ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
-C#                       107 hrs 24 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
-HTML                     98 hrs 4 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+Java                     548 hrs 26 mins     ████████░░░░░░░░░░░░░░░░░   33.75 % 
+Go                       254 hrs 13 mins     ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
+TypeScript               222 hrs 57 mins     ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
+C#                       108 hrs 12 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
+HTML                     98 hrs 4 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
 
 🔥 Editors: 
-VS Code                  1,449 hrs 44 mins   ██████████████████████░░░   89.59 % 
-Visual Studio            149 hrs 5 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
+VS Code                  1,454 hrs 14 mins   ██████████████████████░░░   89.49 % 
+Visual Studio            150 hrs 29 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
 Opencode Cli             8 hrs 9 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
-Claude Code              6 hrs 8 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+Claude Code              7 hrs 6 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 Neovim                   2 hrs 39 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 ```
 
@@ -61,5 +61,5 @@ JavaScript               3 repos             ██░░░░░░░░░�
 Ruby                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
 ```
 
-Last Updated on 14/10/2026 09:18:56 UTC
+Last Updated on 15/10/2026 08:54:04 UTC
 <!--END_SECTION:thansetan-waka-->
